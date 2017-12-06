@@ -1,0 +1,10 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.remove-header-padding {
+    padding: 0;
+    
+}
+
