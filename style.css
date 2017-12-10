@@ -64,6 +64,7 @@ main article {
     font-size: 25px;
     color: #4aaaa5;
     padding-top: 25px;
+    text-align: center;
 }
 
 main aside {
@@ -106,11 +107,11 @@ footer.row {
    margin: 0;
 }
 
-
-#demo {
-    max-width: 20px;
-}
-
 #textbox {
     margin-bottom: 20px;
 }
+
+/* #pong-img{
+    width: 260px;
+    height: 260px;
+} */
