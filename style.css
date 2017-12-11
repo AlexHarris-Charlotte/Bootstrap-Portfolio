@@ -65,7 +65,7 @@ main article {
     font-size: 25px;
     color: #4aaaa5;
     padding-top: 25px;
-    text-align: center;
+    text-align: left;
 }
 
 main aside {
@@ -80,6 +80,7 @@ div img {
 
 #index-img {
     float: left;
+    max-width: 330px;
 }
 
 a img {
@@ -125,4 +126,9 @@ div img {
 
 #port-article {
     margin-bottom: 35px;
+    padding-bottom: 40px;
+}
+
+.thumbnail img {
+    margin-bottom: -48px;
 }
